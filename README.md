@@ -16,6 +16,9 @@ pip install geopandas pandas matplotlib mapclassify
 
 -----
 
+<img width="1600" height="799" alt="image" src="https://github.com/user-attachments/assets/d589867b-55f9-467a-9f70-a09e61f33414" />
+
+
 ## Usage
 
 To generate the heatmap, you must have two data files and a shapefile of India. The paths to these files are specified in the script and need to be updated to match your local file structure.
